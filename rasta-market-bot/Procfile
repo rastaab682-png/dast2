@@ -1,0 +1,1 @@
+worker: python rasta_market_bot.py
